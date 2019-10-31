@@ -1,2 +1,5 @@
-# Demo-Java-MultiThread
-Java多线程练习和实例
+## 好好学习，天天向上
+
+> Study hard, work hard, do better every day!
+
+
